@@ -60,7 +60,6 @@
 
   .subtext {
     flex: 1;
-    
   }
 
  
@@ -173,7 +172,8 @@
   .author {
     align-self: flex-end;
     font-weight: bold;
-    padding-right: 29em;
+    padding-right: 21em;
+    font-size: 22px;
   }
 
   .action_section {
@@ -206,6 +206,16 @@
 
   .section_button {
     border: 2px solid white;
-    }
+  }
+
+  .footer {
+    padding: 2.5em;
+    background: #1f2937;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: large;
+  }
 
   
