@@ -1,10 +1,11 @@
 # Landing-Page
 Create a web page from scratch
 
-Full design 
-<img src="images/full_design.png">
+GIven design 
+<img src="images/full_design.png" height="500px">
 
-Styles
-<img src="images/color_fonts.png">
+
+Given Styles
+<img src="images/color_fonts.png" height="500px">
 
 
